@@ -15,13 +15,13 @@ A terminal-based contact management application written in Python. It allows use
 contact-manager/
 ├── contact_manager.py
 ├── tests/
-│   ├── sample_input/
+│   ├── sample_inputs/
 │   │   ├── test1_add_contact_cancel.txt
 │   │   ├── test2_edit_contact_cancel.txt
 │   │   ├── test3_multiple_edit.txt
 │   │   ├── test4_edit_all.txt
 │   │   └── test5_delete.txt
-│   └── expected_output/
+│   └── expected_outputs/
 │       ├── test1_add_contact_cancel_output.txt
 │       ├── test2_edit_contact_cancel_output.txt
 │       ├── test3_multiple_edit_output.txt
@@ -48,8 +48,8 @@ python contact_manager.py
 You can verify the program's behavior against the included test scenarios by passing a sample input file as a command-line argument and comparing the output with the expected result:
 
 ```bash
-python contact_manager.py tests/sample_input/test1_add_contact_cancel.txt > actual_output.txt
-diff -u tests/expected_output/test1_add_contact_cancel_output.txt actual_output.txt
+python contact_manager.py tests/sample_inputs/test1_add_contact_cancel.txt > actual_output.txt
+diff -u tests/expected_outputs/test1_add_contact_cancel_output.txt actual_output.txt
 ```
 
 If `diff` produces no output, the test passed completely.
