@@ -1,0 +1,84 @@
+﻿
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** ADD NEW CONTACT (Type 'cancel' to return to menu) ***
+Enter Name (or 'cancel'): Enter Phone (11 digits, or 'cancel'): Enter Email (or 'cancel'): Enter Country (or 'cancel'): 
+SUCCESS: Contact 'George' added.
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** ADD NEW CONTACT (Type 'cancel' to return to menu) ***
+Enter Name (or 'cancel'): Enter Phone (11 digits, or 'cancel'): Enter Email (or 'cancel'): Enter Country (or 'cancel'): 
+SUCCESS: Contact 'Gina' added.
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** DELETE CONTACT (Type 'cancel' to return to menu) ***
+Enter the name (or part of the name) to delete (or 'cancel'): Are you sure you want to delete 'George'? (yes/no): 
+Delete operation cancelled for George.
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** DELETE CONTACT (Type 'cancel' to return to menu) ***
+Enter the name (or part of the name) to delete (or 'cancel'): Are you sure you want to delete 'Gina'? (yes/no): 
+SUCCESS: Contact 'Gina' has been deleted.
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** VIEW ALL CONTACTS ***
+--------------------------------------------------------------------------------------------
+Index | Name                 | Phone           | Email                     | Country        
+--------------------------------------------------------------------------------------------
+0     | George               | 11111111111     | g@test.com                | DE             
+--------------------------------------------------------------------------------------------
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): Exiting Contact Manager. Goodbye!
