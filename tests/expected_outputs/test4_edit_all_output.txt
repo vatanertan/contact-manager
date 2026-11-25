@@ -1,0 +1,126 @@
+﻿
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** ADD NEW CONTACT (Type 'cancel' to return to menu) ***
+Enter Name (or 'cancel'): Enter Phone (11 digits, or 'cancel'): Enter Email (or 'cancel'): Enter Country (or 'cancel'): 
+SUCCESS: Contact 'Frank' added.
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** EDIT CONTACT (Type 'cancel' to return to menu) ***
+Enter the name (or part of the name) to edit (or 'cancel'): 
+Editing Contact: Frank
+Which field do you want to change?
+1: Name (Current: Frank)
+2: Phone (Current: 10000000000)
+3: Email (Current: f@old.com)
+4: Country (Current: OldLand)
+Enter choice (1-4, or 'cancel'): Enter new value for Name (or 'cancel'): 
+SUCCESS: Name of Frank updated to Franklin.
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** EDIT CONTACT (Type 'cancel' to return to menu) ***
+Enter the name (or part of the name) to edit (or 'cancel'): 
+Editing Contact: Franklin
+Which field do you want to change?
+1: Name (Current: Franklin)
+2: Phone (Current: 10000000000)
+3: Email (Current: f@old.com)
+4: Country (Current: OldLand)
+Enter choice (1-4, or 'cancel'): Enter new value for Phone (or 'cancel'): 
+SUCCESS: Phone of Franklin updated to 90000000000.
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** EDIT CONTACT (Type 'cancel' to return to menu) ***
+Enter the name (or part of the name) to edit (or 'cancel'): 
+Editing Contact: Franklin
+Which field do you want to change?
+1: Name (Current: Franklin)
+2: Phone (Current: 90000000000)
+3: Email (Current: f@old.com)
+4: Country (Current: OldLand)
+Enter choice (1-4, or 'cancel'): Enter new value for Email (or 'cancel'): 
+SUCCESS: Email of Franklin updated to f@new.com.
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** EDIT CONTACT (Type 'cancel' to return to menu) ***
+Enter the name (or part of the name) to edit (or 'cancel'): 
+Editing Contact: Franklin
+Which field do you want to change?
+1: Name (Current: Franklin)
+2: Phone (Current: 90000000000)
+3: Email (Current: f@new.com)
+4: Country (Current: OldLand)
+Enter choice (1-4, or 'cancel'): Enter new value for Country (or 'cancel'): 
+SUCCESS: Country of Franklin updated to NewLand.
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): 
+*** VIEW ALL CONTACTS ***
+--------------------------------------------------------------------------------------------
+Index | Name                 | Phone           | Email                     | Country        
+--------------------------------------------------------------------------------------------
+0     | Franklin             | 90000000000     | f@new.com                 | NewLand        
+--------------------------------------------------------------------------------------------
+
+----------------------------------------
+      SIMPLE CONTACT MANAGER MENU
+----------------------------------------
+1. Add New Contact
+2. View All Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+----------------------------------------
+Enter your choice (1-5): Exiting Contact Manager. Goodbye!
